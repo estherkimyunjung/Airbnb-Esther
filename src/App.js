@@ -1,12 +1,15 @@
 import React from "react";
 import "./App.css";
+import Header from "./componet/Header";
+import Home from "./componet/Home";
 
 function App() {
   return (
     <div className="app">
-      <h1> Test!!! Yeah~ </h1>
-      {/* Home */}
       {/* Hearder */}
+      <Header />
+      {/* Home */}
+      <Home />
 
       {/* Banner */}
       {/* Search */}
