@@ -1,7 +1,7 @@
 .header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  justify-content: space-between;
   position: sticky;
   top: 0;
   background-color: #fff;
@@ -17,8 +17,8 @@
 
 .header_center {
   display: flex;
-  flex: 1;
   align-items: center;
+  flex: 1;
   max-width: fit-content;
   padding: 10px;
   height: 30px;
